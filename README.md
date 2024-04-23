@@ -50,4 +50,5 @@ License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 Contact
 If you have any questions, feel free to reach out to me at sahilchavhan57@gmail.com.
+
 **Happy browsing!**

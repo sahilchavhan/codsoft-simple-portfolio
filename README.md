@@ -19,10 +19,15 @@ open index.html
 
 Built With
 **HTML**: Used to create the structure of the website.
+
 **CSS**: Used to style the website.
+
 **JavaScript**: Used to add interactivity to the website.
+
 **jQuery**: Used to simplify the JavaScript code and make it more maintainable.
+
 **animate.css**: Used to add animations to the website.
+
 **formspree.io**: Used to handle form submissions and deliver the form data to your email address.
 
 ## Contributing
